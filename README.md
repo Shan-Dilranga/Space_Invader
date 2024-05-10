@@ -54,3 +54,4 @@ This code is a basic implementation of a 2D space shooter game using the Pygame 
    - The display is updated to show the latest changes in the game.
 
 This code forms the core of a simple space shooter game, where the player controls a spaceship to shoot down enemies while avoiding collisions.
+![Screenshot (397)](https://github.com/Shan-Dilranga/Space_Invader/assets/84151287/35e0a462-f815-4c33-8c63-67758fcf524b)
